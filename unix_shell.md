@@ -1,4 +1,4 @@
-![alt text](./blob/main/acorn.svg)
+<img src="acorn.svg"/>
 # Работа с командной строкой UNIX
 
 ### Просмотр информации о рабочей папке
