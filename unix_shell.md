@@ -1,3 +1,4 @@
+![alt text](https://github.com/snitchHolly119/CS101/blob/main/acorn.svg)
 # Работа с командной строкой UNIX
 
 ### Просмотр информации о рабочей папке
